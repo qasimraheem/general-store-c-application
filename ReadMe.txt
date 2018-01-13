@@ -1,3 +1,4 @@
+delete the setup.xls to create your own user and password.
 ========================================================================
     CONSOLE APPLICATION : [!output PROJECT_NAME] Project Overview
 ========================================================================
